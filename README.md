@@ -51,5 +51,8 @@ The platform aims to make programming easier through AI-powered guidance, coding
 Coding Club Assistant aims to create a supportive learning environment where students can explore programming, practice problem-solving, and develop confidence in their technical skills with AI assistance.
 
 ---
+👨‍💻 Author
+Hindvi kailas patil
 
 **Learn. Code. Debug. Improve. Repeat.** 💻✨
+
